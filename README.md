@@ -43,7 +43,7 @@
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0277BD?style=for-the-badge&logoColor=white)
 ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-2E7D32?style=for-the-badge&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-388E3C?style=for-the-badge&logoColor=white)
-![k-NN](https://img.shields.io/badge/k--NN-6A1B9A?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/k--NN-6A1B9A?style=for-the-badge&logoColor=white)
 
 ## 🌐 Frontend Development
 
