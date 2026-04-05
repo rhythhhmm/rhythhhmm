@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rhythm Jain 👨‍💻
 
-<!--
-**rhythhhmm/rhythhhmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Engineer** · Data Analyst · Frontend Developer · ML · Generative AI
 
-Here are some ideas to get you started:
+Building data-driven solutions — from analytical pipelines and ML models to polished frontend interfaces. Passionate about turning data into insights and ideas into products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Skills
+`Python` `PySpark` `MySQL` `Data Processing` `Feature Engineering`
+
+### 🤖 Machine Learning
+`Linear Regression` `Logistic Regression` `Decision Trees` `Random Forest` `XGBoost` `k-NN` `CNN`
+
+### 🌐 Frontend Development
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Tailwind CSS` `Node.js` `Next.js`
+
+### ✨ AI & Analytics
+`Generative AI` `Prompt Engineering` `Power BI` `Microsoft Excel` `Office 365`
+
+### 📋 Consulting Skills
+`Structured Problem Solving` `Data Analysis` `Stakeholder Communication` `Project Management`
+
+---
+
+### 🔭 Currently Exploring
+- 📊 Data analytics & ML pipelines at scale
+- 🌐 Frontend apps with React, Next.js & TypeScript
+- ✨ Generative AI & LLM-powered applications
+
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rhythm-jain-697004256/)
