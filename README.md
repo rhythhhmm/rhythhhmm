@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rhytham Jain 👋</h1>
+<h1 align="center">Hi there, I'm Rhythm Jain 👋</h1>
 
 <p align="center">
   <em>Computer Science Engineer &nbsp;·&nbsp; Data Analyst &nbsp;·&nbsp; Frontend Developer &nbsp;·&nbsp; AI/ML Researcher</em>
